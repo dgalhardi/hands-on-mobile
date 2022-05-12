@@ -1,10 +1,3 @@
-/*
-See LICENSE.txt for this sample’s licensing information.
-
-Abstract:
-View controller for camera interface.
-*/
-
 import UIKit
 import AVFoundation
 import Photos

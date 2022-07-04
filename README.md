@@ -1,1 +1,1 @@
-# -hands-on-mobile
+# hands-on-mobile
